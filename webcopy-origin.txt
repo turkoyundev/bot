@@ -1,0 +1,128 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.abonerol.site\ajax\libs\font-awesome\6.1.1\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\www.abonerol.site\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\www.abonerol.site\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\www.abonerol.site\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\www.abonerol.site\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\www.abonerol.site\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/@popperjs/core@2.11.8/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.abonerol.site\@popperjs\core@2.11.8\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\www.abonerol.site\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\www.abonerol.site\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/tippy.js@6.3.7/animations/scale.css
+File Name: C:\Downloaded Web Sites\www.abonerol.site\tippy.js@6.3.7\animations\scale.css
+Content Type: text/css
+
+Uri: https://unpkg.com/tippy.js@6.3.7/dist/tippy-bundle.umd.min.js
+File Name: C:\Downloaded Web Sites\www.abonerol.site\tippy.js@6.3.7\dist\tippy-bundle.umd.min.js
+Content Type: application/javascript
+
+Uri: https://www.abonerol.site/
+File Name: C:\Downloaded Web Sites\www.abonerol.site\index.htm
+Content Type: text/html
+
+Uri: https://www.abonerol.site/assets/css/bulma.min.css
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\css\bulma.min.css
+Content Type: text/css
+
+Uri: https://www.abonerol.site/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.abonerol.site/assets/img/features1.svg
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\img\features1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.abonerol.site/assets/img/features2.svg
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\img\features2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.abonerol.site/assets/img/features3.svg
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\img\features3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.abonerol.site/assets/img/features4.svg
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\img\features4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.abonerol.site/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://www.abonerol.site/assets/js/jquery-3.6.0.js
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\js\jquery-3.6.0.js
+Content Type: application/javascript
+
+Uri: https://www.abonerol.site/assets/js/script.js
+File Name: C:\Downloaded Web Sites\www.abonerol.site\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.abonerol.site/commands.html
+File Name: C:\Downloaded Web Sites\www.abonerol.site\commands.html
+Content Type: text/html
+
+Uri: https://www.abonerol.site/index.html
+File Name: C:\Downloaded Web Sites\www.abonerol.site\index.html
+Content Type: text/html
+
+Uri: https://www.abonerol.site/istatistikler.html
+File Name: C:\Downloaded Web Sites\www.abonerol.site\istatistikler.html
+Content Type: text/html
+
